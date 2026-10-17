@@ -21,7 +21,7 @@ The goal of this project was to experiment with recreating and porting *Road of 
 ## Running the Godot Project
 
 1. Download or clone this repository.
-2. Install the Godot version compatible with the project.
+2. Install the Godot version compatible with the project.(4.5.1.0)
 3. Open Godot and import/open the project folder.
 4. Run the project from the Godot Editor.
 
