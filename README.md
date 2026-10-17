@@ -16,7 +16,7 @@ The goal of this project was to experiment with recreating and porting *Road of 
 ## Downloads
 
 - **Godot project/source files:** You're in the right place! Clone or download this GitHub repository to view the project files and open the project in Godot.
-- **Playable Windows build:** Get the game `.exe` from the project's **itch.io page**: [Add your itch.io page link here](https://pazoro.itch.io/road-of-the-dead-fan-port).
+- **Playable Windows build:** Get the game `.exe` from the project's **itch.io page**: [Itch game page](https://pazoro.itch.io/road-of-the-dead-fan-port).
 
 ## Running the Godot Project
 
