@@ -13,15 +13,19 @@ The goal of this project was to experiment with recreating and porting *Road of 
 - **Status:** Work in progress
 - **Made for:** Fun and learning
 
-## Download and Run
+## Downloads
 
-The Windows build is portable:
+- **Godot project/source files:** You're in the right place! Clone or download this GitHub repository to view the project files and open the project in Godot.
+- **Playable Windows build:** Get the game `.exe` from the project's **itch.io page**: [Add your itch.io page link here](https://itch.io/).
 
-1. Download and extract the game build.
-2. Put the game folder wherever you want.
-3. Run the `.exe` file.
+## Running the Godot Project
 
-No installer should be needed. If the game does not start or something behaves strangely, keep in mind that this is an unfinished experimental build.
+1. Download or clone this repository.
+2. Install the Godot version compatible with the project.
+3. Open Godot and import/open the project folder.
+4. Run the project from the Godot Editor.
+
+The Windows `.exe` is distributed separately on itch.io; this GitHub repository is for the Godot project files.
 
 ## Performance
 
@@ -44,10 +48,6 @@ The project is still a work in progress, and I may continue improving it when I 
 Please support the original game and its creators.
 
 If you are a rights holder and have a concern about this fan project, please contact me.
-
-## Source Code
-
-I plan to publish the Godot project files here on GitHub as well, so others can look through the project and see how it was put together.
 
 ---
 
