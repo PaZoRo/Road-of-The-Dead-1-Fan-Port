@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33595884/README.md)
 # Road of the Dead — Fan Port
 
 An experimental fan port of **Road of the Dead**, made with the help of ChatGPT and OpenAI Codex using the **Godot Engine**.
