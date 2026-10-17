@@ -1,0 +1,77 @@
+{
+  "source_symbol": 1101,
+  "stage": [
+    600,
+    400
+  ],
+  "texts": {
+    "Basic Controls": "Accelerate Key: {key2}\nBrake Key: {key3}\nSteer Left Key: {key0}\nSteer Right Key: {key1}\n\nAll the controls can be changed in the options.",
+    "Aborting": "If at any time, you want to abort your current escape, just move your mouse in the top center area and use the Abort button to return to the garage to plan your escape better.",
+    "Quality": "Quality Key: {key8}\n\nIf the game runs slow, try cycling through the quality settings to find the best one for you.  You can also disable the buildings in the options.",
+    "Hand Brake": "Hand Brake Key: {key4}\n\nIn order to survive this nightmare, you'll need to use your hand brake to avoid object with better control.",
+    "Wipers": "Wipers Key: {key6}\n\nBetter get ready to get bloody!  With all these zombies, soldiers and civilians splattering their blood in your windshield, it's a good idea to use your wipers once in a while.",
+    "Horn": "Horn Key: {key5}\n\nThere is chaos on the highway and the civilians are running scared.  Running over civilians is bad so you should warn them with your horn to get them out of the way.",
+    "Punching": "Punch Key: {key7}\n\nThrough your escape, you'll end up with a shattered windshield.  If it's ruining your vision, you can punch it off.  You can't punch zombies, the risk of being infected is too great.",
+    "Splatter Hits": "When you hit someone, dead or alive, right in the center of your car and at high speed, you will get a splatter hit.  They will give you an extra Road Point multiplier.  Use the horn for easier zombie splatter hits!  Civilians will NOT give a bonus.",
+    "Hit Combos": "A good way to earn Road Points is to make hit combos.  By hitting multiple enemies in a row in a timely fashion, you will get more Road Points than regular hits.  The bigger the combo, the more points you get!  Be careful, hitting a civilian will break your combo.",
+    "Pistol": "Pistol Key: {key7}\nYou have brought a pistol with you.  When there is an enemy clinging to your hood, you can get it off quickly by shooting it.  Be aware that using the pistol will blast the windshield to pieces in a couple shots.",
+    "Helicopters": "If you really piss the military off, they'll send helicopters to take you down for sure.  When a helicopter is after you, you'll have to make it crash into the big highway signs a couple of times to take it down.  Nobody said it would be easy!",
+    "Mutated Zombies": "What caused the zombie outbreak is still unknown but it could be chemical since mutations have occured.  Mutated zombies are extremely strong and resistant.  They will cling to your hood no matter how hard you hit them.  It's better to avoid them if you don't want to have a lousy afternoon.",
+    "Water Jugs": "When you're on the verge of exploding and your car is on fire, try to hit these big blue water jugs to put out the fire and give you a chance at surviving this hell a little longer.  Hitting water jugs also washes the blood off your windshield.",
+    "Enemies On Hood": "If you're not driving fast enough, zombies and soldiers will get a chance to cling to your hood when you hit them.  You'll have to shake them off by hitting the side walls HARD (by using the hand brake) or by hitting abandoned cars.  A pistol is also a great way to get them off your hood quickly.",
+    "No Windshield": "Without a windshield, a zombie on your hood is a very bad thing.  Without anything to stop it, a zombie will get in and then you're dead.  Get them off your hood, quick!",
+    "Perception": "Perception Toggle Key: {key9}\nWith perception, you will see a fixed top down view of the road, yourself as the white icon and the icons for the incoming hazards and enemies.\nKeep an eye on your perceptions to survive the day."
+  },
+  "buttons": {
+    "up": {
+      "file": "abort_up.png",
+      "rect": [
+        -240.12,
+        -5.4,
+        480.41999999999996,
+        176.4
+      ]
+    },
+    "over": {
+      "file": "abort_over.png",
+      "rect": [
+        -240.12,
+        -5.4,
+        480.41999999999996,
+        176.4
+      ]
+    },
+    "down": {
+      "file": "abort_down.png",
+      "rect": [
+        -240.12,
+        -5.4,
+        480.41999999999996,
+        176.4
+      ]
+    },
+    "hittest": {
+      "file": "abort_hittest.png",
+      "rect": [
+        -240.12,
+        -5.4,
+        480.41999999999996,
+        176.4
+      ]
+    }
+  },
+  "body_rect": [
+    205.758,
+    425.97,
+    673.6320000000001,
+    229.68
+  ],
+  "title_rect": [
+    205.758,
+    363.51,
+    673.6320000000001,
+    61.92
+  ],
+  "body_size": 30,
+  "title_size": 56
+}

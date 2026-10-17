@@ -1,0 +1,380 @@
+{
+  "rows": [
+    {
+      "id": 0,
+      "key": "Survivor",
+      "name": "Survivor",
+      "hint": "Beat The Great Escape",
+      "reward": 500
+    },
+    {
+      "id": 1,
+      "key": "HellsAngel",
+      "name": "Hell's Angel",
+      "hint": "Beat Highway To Hell",
+      "reward": 500
+    },
+    {
+      "id": 2,
+      "key": "DeadOnTime",
+      "name": "Dead On Time",
+      "hint": "Drive 10 KM in Dead On Time",
+      "reward": 500
+    },
+    {
+      "id": 3,
+      "key": "OneManArmy",
+      "name": "One Man Army",
+      "hint": "Drive 10 KM in Police State",
+      "reward": 500
+    },
+    {
+      "id": 4,
+      "key": "Tank",
+      "name": "Tank",
+      "hint": "Buy all the upgrades",
+      "reward": 0
+    },
+    {
+      "id": 5,
+      "key": "HoodShaker",
+      "name": "Hood Shaker",
+      "hint": "Knock an enemy off your hood by hitting the side walls",
+      "reward": 25
+    },
+    {
+      "id": 6,
+      "key": "Gunslinger",
+      "name": "Gunslinger",
+      "hint": "Shoot an enemy off your hood with the pistol",
+      "reward": 50
+    },
+    {
+      "id": 7,
+      "key": "HydroficialIntelligence",
+      "name": "Hydroficial Intelligence",
+      "hint": "Use a water jug to put off your burning engine",
+      "reward": 25
+    },
+    {
+      "id": 8,
+      "key": "RoadWarrior",
+      "name": "Road Warrior",
+      "hint": "Defeat a helicopter",
+      "reward": 100
+    },
+    {
+      "id": 9,
+      "key": "BluntForceTrauma",
+      "name": "Blunt Force Trauma",
+      "hint": "Do a 4 hits combo with zombies only",
+      "reward": 25
+    },
+    {
+      "id": 10,
+      "key": "FlipFlop",
+      "name": "Flip Flop",
+      "hint": "Hit 16 enemies, alternating between zombie and soldier or vice versa",
+      "reward": 50
+    },
+    {
+      "id": 11,
+      "key": "Meticulous",
+      "name": "Meticulous",
+      "hint": "Kill 10 zombies at low speed",
+      "reward": 50
+    },
+    {
+      "id": 12,
+      "key": "QuickDraw",
+      "name": "Quick Draw",
+      "hint": "Shoot a soldier while he's pointing his gun at you and before he shoots",
+      "reward": 100
+    },
+    {
+      "id": 13,
+      "key": "SpeedRacer",
+      "name": "Speed Racer",
+      "hint": "Drive 0.5 KM at maximum speed",
+      "reward": 50
+    },
+    {
+      "id": 14,
+      "key": "DontNeedWheels",
+      "name": "Don't Need Wheels",
+      "hint": "Drive 3 KM with all 4 tires blown",
+      "reward": 100
+    },
+    {
+      "id": 15,
+      "key": "Pinball",
+      "name": "Pinball",
+      "hint": "Do a 3 hits vehicle collision combo",
+      "reward": 50
+    },
+    {
+      "id": 16,
+      "key": "NukeWatcher",
+      "name": "Nuke Watcher",
+      "hint": "Exit the city with at least 15 seconds to spare",
+      "reward": 200
+    },
+    {
+      "id": 17,
+      "key": "TimeToSpare",
+      "name": "Time To Spare",
+      "hint": "Reach up to 45 seconds bonus time in Dead On Time",
+      "reward": 100
+    },
+    {
+      "id": 18,
+      "key": "RoadDominator",
+      "name": "Road Dominator",
+      "hint": "Hit 50 highway soldiers",
+      "reward": 100
+    },
+    {
+      "id": 19,
+      "key": "ZombieSniper",
+      "name": "Zombie Sniper",
+      "hint": "Do 30 zombie splatter hits",
+      "reward": 100
+    },
+    {
+      "id": 20,
+      "key": "NoMercy",
+      "name": "No Mercy",
+      "hint": "Hit 25 civilians",
+      "reward": 50
+    },
+    {
+      "id": 21,
+      "key": "CloseEncounters",
+      "name": "Close Encounters",
+      "hint": "Get all 5 enemy types off your hood",
+      "reward": 100
+    },
+    {
+      "id": 22,
+      "key": "WiseMan",
+      "name": "Wise Man",
+      "hint": "Avoid 10 mutated zombies",
+      "reward": 100
+    },
+    {
+      "id": 23,
+      "key": "TopGun",
+      "name": "Top Gun",
+      "hint": "Dodge 10 carpet bombings",
+      "reward": 100
+    }
+  ],
+  "constants": {
+    "Survivor": 0,
+    "HellsAngel": 1,
+    "DeadOnTime": 2,
+    "OneManArmy": 3,
+    "Tank": 4,
+    "HoodShaker": 5,
+    "Gunslinger": 6,
+    "HydroficialIntelligence": 7,
+    "RoadWarrior": 8,
+    "BluntForceTrauma": 9,
+    "FlipFlop": 10,
+    "Meticulous": 11,
+    "QuickDraw": 12,
+    "SpeedRacer": 13,
+    "DontNeedWheels": 14,
+    "Pinball": 15,
+    "NukeWatcher": 16,
+    "TimeToSpare": 17,
+    "RoadDominator": 18,
+    "ZombieSniper": 19,
+    "NoMercy": 20,
+    "CloseEncounters": 21,
+    "WiseMan": 22,
+    "TopGun": 23,
+    "Max": 24,
+    "DeadOnTimeDistance": 10000,
+    "OneManArmyDistance": 10000,
+    "BluntForceTraumaCount": 4,
+    "FlipFlopCount": 16,
+    "MeticulousCount": 10,
+    "SpeedRacerDistance": 500,
+    "DontNeedWheelsDistance": 3000,
+    "PinballCount": 3,
+    "NukeWatcherTime": 15,
+    "TimeToSpareTime": 45,
+    "RoadDominatorCount": 50,
+    "ZombieSniperCount": 30,
+    "NoMercyCount": 25,
+    "WiseManCount": 10,
+    "TopGunCount": 10
+  },
+  "groups": [
+    [
+      "Global Pandemic",
+      0,
+      4
+    ],
+    [
+      "Basic Survival",
+      5,
+      8
+    ],
+    [
+      "Killing Methods",
+      9,
+      12
+    ],
+    [
+      "Pushing The Limits",
+      13,
+      17
+    ],
+    [
+      "Veteran",
+      18,
+      23
+    ]
+  ],
+  "fields": {
+    "Hint": {
+      "bounds": [
+        -2.0,
+        526.65,
+        -2.0,
+        18.4
+      ],
+      "font": 22,
+      "height": 16.0,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "layout": {
+        "align": 2,
+        "left": 0.0,
+        "right": 0.0,
+        "indent": 0.0,
+        "leading": 2.0
+      },
+      "variable": "",
+      "sample": "Shoot a soldier while he's pointing his gun at you and before he shoots",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        -262.35,
+        26.55
+      ],
+      "file": "res://assets/menu/tooltip.ttf"
+    },
+    "Reward": {
+      "bounds": [
+        72.0,
+        162.25,
+        -2.0,
+        26.35
+      ],
+      "font": 20,
+      "height": 25.0,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "layout": {
+        "align": 1,
+        "left": 0.0,
+        "right": 0.0,
+        "indent": 0.0,
+        "leading": 2.0
+      },
+      "variable": "",
+      "sample": "<p align=\"right\"><font face=\"Dirty Ego\" size=\"25\" color=\"#ffffff\" letterSpacing=\"2.000000\" kerning=\"0\">200 RP</font></p>",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        83.7,
+        1.75
+      ],
+      "file": "res://assets/title.ttf"
+    },
+    "AchievementName": {
+      "bounds": [
+        -2.0,
+        327.5,
+        -2.0,
+        26.35
+      ],
+      "font": 20,
+      "height": 25.0,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "layout": {
+        "align": 2,
+        "left": 0.0,
+        "right": 0.0,
+        "indent": 0.0,
+        "leading": 2.0
+      },
+      "variable": "",
+      "sample": "<p align=\"center\"><font face=\"Dirty Ego\" size=\"25\" color=\"#ffffff\" letterSpacing=\"2.000000\" kerning=\"0\">Story</font></p>",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        -162.75,
+        1.75
+      ],
+      "file": "res://assets/title.ttf"
+    },
+    "SectionName": {
+      "bounds": [
+        -2.0,
+        516.95,
+        -2.0,
+        36.15
+      ],
+      "font": 20,
+      "height": 35.0,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "layout": {
+        "align": 2,
+        "left": 0.0,
+        "right": 0.0,
+        "indent": 0.0,
+        "leading": 2.0
+      },
+      "variable": "",
+      "sample": "<p align=\"center\"><font face=\"Dirty Ego\" size=\"35\" color=\"#ffffff\" letterSpacing=\"2.000000\" kerning=\"0\">Story</font></p>",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        -257.5,
+        1.7
+      ],
+      "file": "res://assets/title.ttf"
+    }
+  },
+  "source": "RDAchievement.as; RDGame.as; MC_AchievementItem; MC_AchievementSection"
+}

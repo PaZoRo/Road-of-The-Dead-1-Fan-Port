@@ -1,0 +1,26 @@
+{
+  "intro": {
+    "file": "intro.ogv",
+    "source_start": 709,
+    "source_end": 3769,
+    "fps": 30,
+    "duration": 102.03333333333333,
+    "resolution": [
+      600,
+      400
+    ],
+    "size": 35109643
+  },
+  "ending": {
+    "file": "ending.ogv",
+    "source_start": 3776,
+    "source_end": 6254,
+    "fps": 30,
+    "duration": 82.63333333333334,
+    "resolution": [
+      600,
+      400
+    ],
+    "size": 12083266
+  }
+}
